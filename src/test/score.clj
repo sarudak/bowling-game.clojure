@@ -4,7 +4,8 @@
 
 (fact "When scoring a game with no spares or strikes the score is the sum of all rolls"
   (score-game (repeat 20 1)) => 20
-  (score-game [4 3 6 1 0 7 3 5 5 4 9 0 8 1 3 3 4 4 1 0]) => 71)
+  (score-game [4 3 6 1 0 7 3 5 5 4 9 0 8 1 3 3 4 4 1 0]) => 71
+  )
 
 (fact "When scoring a game with a spare the next rolls score is added to the frame with the spare"
   (score-game [4 6 6 1 0 7 3 5 5 4 9 0 8 1 3 3 4 4 1 0]) => 80

@@ -208,19 +208,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="score.clj" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="score.clj" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/score.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="920" selection-end="920" vertical-scroll-proportion="0.0">
+            <state line="24" column="36" selection-start="921" selection-end="921" vertical-scroll-proportion="0.76744187">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="score.clj" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="score.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bowling_game/score.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="61" selection-start="209" selection-end="209" vertical-scroll-proportion="0.24489796">
+            <state line="20" column="36" selection-start="584" selection-end="584" vertical-scroll-proportion="-240.0">
               <folding />
             </state>
           </provider>
@@ -255,8 +255,8 @@
         <option value="$PROJECT_DIR$/test/bowling_game/score_test.clj" />
         <option value="$PROJECT_DIR$/src/test/bowling_game/score_test.clj" />
         <option value="$PROJECT_DIR$/src/test/score_test.clj" />
-        <option value="$PROJECT_DIR$/src/test/score.clj" />
         <option value="$PROJECT_DIR$/src/bowling_game/score.clj" />
+        <option value="$PROJECT_DIR$/src/test/score.clj" />
       </list>
     </option>
   </component>
@@ -795,16 +795,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/score.clj">
+    <entry file="file://$PROJECT_DIR$/src/bowling_game/score.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="920" selection-end="920" vertical-scroll-proportion="0.0">
+        <state line="20" column="36" selection-start="584" selection-end="584" vertical-scroll-proportion="-240.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bowling_game/score.clj">
+    <entry file="file://$PROJECT_DIR$/src/test/score.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="61" selection-start="209" selection-end="209" vertical-scroll-proportion="0.24489796">
+        <state line="24" column="36" selection-start="921" selection-end="921" vertical-scroll-proportion="0.76744187">
           <folding />
         </state>
       </provider>

@@ -220,7 +220,7 @@
       <file leaf-file-name="score.clj" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/bowling_game/score.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="53" selection-start="52" selection-end="52" vertical-scroll-proportion="0.10495627">
+            <state line="1" column="7" selection-start="24" selection-end="24" vertical-scroll-proportion="-0.2244898">
               <folding />
             </state>
           </provider>
@@ -574,7 +574,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1688" height="1018" extended-state="6" />
+    <frame x="-4" y="-4" width="1688" height="1018" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -804,7 +804,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bowling_game/score.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="53" selection-start="52" selection-end="52" vertical-scroll-proportion="0.10495627">
+        <state line="1" column="7" selection-start="24" selection-end="24" vertical-scroll-proportion="-0.2244898">
           <folding />
         </state>
       </provider>
